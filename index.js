@@ -31,7 +31,7 @@ const questions = [
         type:'list',
         name:'license',
         message:"what is the license of your project?",
-        choices:['ISC', 'Apache license', 'MIT icense', 'None']
+        choices:['ISC', 'Apache license', 'MIT license', 'None']
     },
     {
         type:'input',
