@@ -2,7 +2,7 @@
   ![Github badge](https://img.shields.io/badge/license-ISC-blue)
 
 ## DESCRIPTION
-to create a profissional file in node 
+To create a professional file in node.js 
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ To create Readme and inform the  developers what the project is about
   
 
 ## Contribution
- wATCHE the video to learn more about 
+ Watch the video to learn more about [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1RCVEAX6oO8eDxCrwZuKhdutc-r5ULJkC/view?usp=share_link)
 
 ## Test
 We will test it later
@@ -34,6 +34,6 @@ We will test it later
 
 to reach me for any questions contact me at my:
 
-Github: [If you have any questions contacte me at GitHub: Github.com/Haillander ](https://github.com/If you have any questions contacte me at GitHub: Github.com/Haillander )
+Github: [If you have any questions contact me at GitHub: Github.com/Haillander ](https://github.com/If you have any questions contacte me at GitHub: Github.com/Haillander )
 E-mail:Haillanderviana@gmail.com
 
