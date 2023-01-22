@@ -1,4 +1,4 @@
- # Readme Genertor
+  # Readme Genertor
   ![Github badge](https://img.shields.io/badge/license-ISC-blue)
 
 ## DESCRIPTION
