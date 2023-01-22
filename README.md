@@ -34,6 +34,6 @@ We will test it later
 
 to reach me for any questions contact me at my:
 
-Github: [If you have any questions contact me at GitHub: Github.com/Haillander ](https://github.com/If you have any questions contact me at GitHub: Github.com/Haillander )
+Github: [If you have any questions contact me at GitHub: Github.com/Haillander ]
 E-mail:Haillanderviana@gmail.com
 
